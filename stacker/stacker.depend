@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1496683928 source:d:\programming\console program\c++\stacker\header\block.cpp
+	"block.hpp"
+	<conio.h>
+	<iostream>
+	<limits>
+
+1496683443 d:\programming\console program\c++\stacker\header\block.hpp
+	<windows.h>
+	<ctime>
+
+1496683137 source:d:\programming\console program\c++\stacker\main.cpp
+	<iostream>
+	"header/block.hpp"
+
